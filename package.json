@@ -1,0 +1,21 @@
+{
+  "name": "nick-mobile-adaptation",
+  "version": "1.0.0",
+  "description": "移动端适配方案（终极版）",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cuichuanteng/NickMobileAdaptation.git"
+  },
+  "keywords": [
+    "flexible",
+    "移动适配",
+    "手机适配"
+  ],
+  "author": "cuichuanteng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuichuanteng/NickMobileAdaptation/issues"
+  },
+  "homepage": "https://github.com/cuichuanteng/NickMobileAdaptation#readme"
+}
